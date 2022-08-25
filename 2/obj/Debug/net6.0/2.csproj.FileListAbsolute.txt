@@ -1,0 +1,15 @@
+C:\HomeWork2\HomeW5\Новая папка\2\bin\Debug\net6.0\2.exe
+C:\HomeWork2\HomeW5\Новая папка\2\bin\Debug\net6.0\2.deps.json
+C:\HomeWork2\HomeW5\Новая папка\2\bin\Debug\net6.0\2.runtimeconfig.json
+C:\HomeWork2\HomeW5\Новая папка\2\bin\Debug\net6.0\2.dll
+C:\HomeWork2\HomeW5\Новая папка\2\bin\Debug\net6.0\2.pdb
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\2.dll
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\refint\2.dll
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\2.pdb
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\2.genruntimeconfig.cache
+C:\HomeWork2\HomeW5\Новая папка\2\obj\Debug\net6.0\ref\2.dll
